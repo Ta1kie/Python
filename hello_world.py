@@ -24,4 +24,18 @@ meal = "Beeeeeaans"
 print("Dinner:")
 print(meal)
 
+# Define the release and runtime integer variables below:
+an_int = 2000
+release_year = an_int
+runtime = 180
+print(release_year + runtime)
+
+# Define the rating_out_of_10 float variable below:
+a_float = 7.8
+rating_out_of_10 = a_float
+print(rating_out_of_10)
+
+print(25 * 68 + 13 / 28)
+# Print "1700.4642857142858"
+
 
