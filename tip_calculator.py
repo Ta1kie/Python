@@ -12,5 +12,6 @@ final_amount = "{:.2f}".format(bill_per_person)
 if people > 1:
     print(f"Each person should pay: {final_amount}")
 else:
-    print("Sorry, there should be atleast 2 of you to split the bill.")
+    print(f"Sorry, there should be atleast 2 of you to split the bill. Your bill is {final_amount}")
+
 
