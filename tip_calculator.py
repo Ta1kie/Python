@@ -10,7 +10,7 @@ bill_per_person = bill_with_tip / people
 final_amount = round(bill_per_person, 2)
 final_amount = "{:.2f}".format(bill_per_person)
 if people > 1:
-    print(f"Each person should pay: {final_amount}")
+    print(f"Each person should pay: {final_amount}
 else:
     print(f"Sorry, there should be atleast 2 of you to split the bill. Your bill is {final_amount}")
 
