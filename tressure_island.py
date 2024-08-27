@@ -45,3 +45,4 @@ else:
 ⣿⣿⣿⣿⣿⣯⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣽⣿⣿
 '''
 'You have found yourself on a crossroad, now what?')
+choice2 = input('Where do you want to go? Type "Left" or "Right" ').lower()
